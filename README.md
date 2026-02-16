@@ -1,6 +1,6 @@
 # Hi there, I'm Pradyumn Tendulkar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pradyumn-tendulkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/p-tendulkar/)
 [![Email](https://img.shields.io/badge/Email-pktendulkar@wpi.edu-red?style=for-the-badge&logo=gmail)](mailto:pktendulkar@wpi.edu)
 [![GitHub followers](https://img.shields.io/github/followers/pradyten?style=for-the-badge&logo=github)](https://github.com/pradyten)
 
@@ -101,7 +101,7 @@ expertise = {
 
 I'm always interested in collaborating on ML/AI projects or discussing data science opportunities!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pradyumn-tendulkar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/p-tendulkar/)
 - 📧 Email: pktendulkar@wpi.edu
 - 🐙 GitHub: You're already here!
 

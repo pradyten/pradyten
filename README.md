@@ -9,60 +9,56 @@
 🎓 **Data Science Graduate Student** at Worcester Polytechnic Institute (WPI)  
 💼 Aspiring **ML Engineer | AI Engineer | Data Scientist**  
 🌱 Currently working on **Deep Learning, NLP, and MLOps projects**  
-🔬 Passionate about applying **AI to solve real-world problems** in healthcare, environment, and technology  
+🔬 Passionate about applying **AI to solve real-world problems**  
 📫 Reach me at **pktendulkar@wpi.edu**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌊 [Water Quality Forecasting ML](https://github.com/pradyten/water-quality-forecasting-ml)
-Forecasting lake water turbidity using **ensemble ML** (XGBoost, CatBoost) and **LSTM with attention mechanisms**. Environmental data science for water quality monitoring.
+### 🌊 Environmental Science & Water Quality
+**[Water Quality Forecasting ML](https://github.com/pradyten/water-quality-forecasting-ml)** - Forecasting lake turbidity using ensemble ML (XGBoost, CatBoost, LSTM) with attention mechanisms.
 
-**Tech Stack:** \`TensorFlow\` \`XGBoost\` \`CatBoost\` \`Time Series\` \`Environmental Science\`
+**[Environmental Data Projects](https://github.com/pradyten/environmental-data-projects)** - 7 notebooks analyzing NDTI/NDWI indices for Indian lakes.
 
-### 🤸 [Human Activity Recognition LSTM](https://github.com/pradyten/human-activity-recognition-lstm)
-Classifying human activities from smartphone sensor data using **LSTM neural networks**. Applications in healthcare monitoring and IoT.
+### 😊 Computer Vision & Emotion AI
+**[Facial Expression Recognition](https://github.com/pradyten/facial-expression-recognition-cnn-bilstm)** - Hybrid CNN-BiLSTM for emotion detection with class imbalance handling.
 
-**Tech Stack:** \`TensorFlow\` \`LSTM\` \`Sensor Data\` \`IoT\` \`Mobile ML\`
+**[Emotion Recognition v3](https://github.com/pradyten/facial-emotion-recognition-v3)** - Enhanced emotion AI with improved preprocessing.
 
-### 😊 [Facial Expression Recognition CNN-BiLSTM](https://github.com/pradyten/facial-expression-recognition-cnn-bilstm)
-Emotion detection from facial images using **hybrid CNN-BiLSTM architecture** with class imbalance handling for robust emotion AI.
+### 🤸 IoT & Activity Recognition
+**[Human Activity Recognition](https://github.com/pradyten/human-activity-recognition-lstm)** - LSTM-based activity classification from smartphone sensors.
 
-**Tech Stack:** \`Computer Vision\` \`CNN\` \`BiLSTM\` \`OpenCV\` \`Emotion AI\`
+### ❤️ Healthcare & Medical AI
+**[Heart Attack Prediction](https://github.com/pradyten/heart-attack-prediction-ml)** - Cardiovascular disease risk prediction with ensemble ML.
 
-### ❤️ [Heart Attack Prediction ML](https://github.com/pradyten/heart-attack-prediction-ml)
-Predicting cardiovascular disease risk using **ensemble ML methods** with feature importance analysis for clinical decision support.
+### 💬 Natural Language Processing
+**[NLP Sentiment Analysis](https://github.com/pradyten/nlp-sentiment-analysis)** - Product review sentiment classification using NLP and deep learning.
 
-**Tech Stack:** \`XGBoost\` \`Random Forest\` \`Healthcare AI\` \`Feature Engineering\`
+**[Resume Analyzer](https://github.com/pradyten/Resume-Comparator)** - AI-powered resume analysis with BERT and Transformers.
 
-### 💬 [NLP Sentiment Analysis](https://github.com/pradyten/nlp-sentiment-analysis)
-Product review sentiment classification using **NLP and deep learning**. Text preprocessing, word embeddings, and neural networks.
+### 🕷️ Data Collection & Analysis
+**[Web Scraping Projects](https://github.com/pradyten/web-scraping-projects)** - Amazon review scrapers with BeautifulSoup.
 
-**Tech Stack:** \`NLTK\` \`Gensim\` \`Word Embeddings\` \`Text Classification\`
+**[ML Classification Projects](https://github.com/pradyten/ml-classification-projects)** - 10 diverse ML projects across multiple domains.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming & ML
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 
-### NLP & LLM
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square)
+### NLP & Computer Vision
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Cloud & MLOps
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -73,9 +69,9 @@ Product review sentiment classification using **NLP and deep learning**. Text pr
 
 <div align="center">
 
-![Pradyumn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradyten&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradyten&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyten&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyten&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradyten&theme=tokyonight&hide_border=true)
 
@@ -83,40 +79,82 @@ Product review sentiment classification using **NLP and deep learning**. Text pr
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 Portfolio Summary
 
 \`\`\`python
-expertise = {
-    "Machine Learning": ["Supervised Learning", "Ensemble Methods", "Time Series Forecasting"],
-    "Deep Learning": ["CNN", "LSTM", "BiLSTM", "Attention Mechanisms"],
-    "NLP": ["Sentiment Analysis", "Text Classification", "Word Embeddings"],
-    "Computer Vision": ["Image Classification", "Emotion Recognition"],
-    "Domains": ["Healthcare AI", "Environmental Science", "IoT"]
+portfolio = {
+    "total_repositories": 23,
+    "total_notebooks": 40,
+    "domains": [
+        "Environmental Science",
+        "Computer Vision & Emotion AI", 
+        "Healthcare Analytics",
+        "Natural Language Processing",
+        "IoT & Sensor Data",
+        "Reinforcement Learning"
+    ],
+    "key_skills": ["TensorFlow", "PyTorch", "XGBoost", "BERT", 
+                   "CNN", "LSTM", "OpenCV", "Docker", "AWS"]
 }
 \`\`\`
 
 ---
 
+## 📂 All Repositories (23 total)
+
+### Environmental & Geospatial (6)
+- [water-quality-forecasting-ml](https://github.com/pradyten/water-quality-forecasting-ml) | [environmental-data-projects](https://github.com/pradyten/environmental-data-projects)
+- [lake-turbidity-forecasting-ensemble](https://github.com/pradyten/lake-turbidity-forecasting-ensemble) | [bangalore-water-quality-ml](https://github.com/pradyten/bangalore-water-quality-ml)
+- [lake-turbidity-analysis](https://github.com/pradyten/lake-turbidity-analysis) | [time-series-regression-xgboost](https://github.com/pradyten/time-series-regression-xgboost)
+
+### Computer Vision & Emotion AI (4)
+- [facial-expression-recognition-cnn-bilstm](https://github.com/pradyten/facial-expression-recognition-cnn-bilstm)
+- [facial-emotion-recognition-v3](https://github.com/pradyten/facial-emotion-recognition-v3)
+- [emotion-detection-deep-learning](https://github.com/pradyten/emotion-detection-deep-learning)
+- [emotion-classification-lstm](https://github.com/pradyten/emotion-classification-lstm)
+
+### Healthcare & IoT (3)
+- [heart-attack-prediction-ml](https://github.com/pradyten/heart-attack-prediction-ml)
+- [human-activity-recognition-lstm](https://github.com/pradyten/human-activity-recognition-lstm)
+- [sensor-data-classification-dl](https://github.com/pradyten/sensor-data-classification-dl)
+
+### NLP & Text (2)
+- [nlp-sentiment-analysis](https://github.com/pradyten/nlp-sentiment-analysis)
+- [Resume-Comparator](https://github.com/pradyten/Resume-Comparator)
+
+### Data Science Collections (5)
+- [ml-classification-projects](https://github.com/pradyten/ml-classification-projects) | [web-scraping-projects](https://github.com/pradyten/web-scraping-projects)
+- [statistical-ml-analysis](https://github.com/pradyten/statistical-ml-analysis) | [regression-diagnostics-ml](https://github.com/pradyten/regression-diagnostics-ml)
+- [data-visualization-analysis](https://github.com/pradyten/data-visualization-analysis)
+
+### Apps & Experiments (3)
+- [pdf-extractor](https://github.com/pradyten/pdf-extractor) | [deep-learning-experiments](https://github.com/pradyten/deep-learning-experiments)
+
+---
+
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on ML/AI projects or discussing data science opportunities!
+💼 **Open to ML Engineer, AI Engineer, and Data Scientist opportunities!**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/p-tendulkar/)
-- 📧 Email: pktendulkar@wpi.edu
-- 🐙 GitHub: You're already here!
+- [LinkedIn](https://www.linkedin.com/in/p-tendulkar/) - Let's connect professionally
+- [Email](mailto:pktendulkar@wpi.edu) - pktendulkar@wpi.edu
+- 📍 Worcester, MA (Open to relocation)
+
+---
+
+## 📈 Current Focus
+
+- 🔭 Working on: **MLOps pipelines and model deployment**
+- 🌱 Learning: **Large Language Models and Prompt Engineering**
+- 👯 Open to: **Collaborating on open-source ML/AI projects**
+- 💬 Ask me about: **Machine Learning, Deep Learning, NLP, Computer Vision**
 
 ---
 
 <div align="center">
 
-### ⭐ Featured Repositories
-
-Check out my pinned repositories below for hands-on examples of my work!
+*"Turning data into insights, one model at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pradyten&color=blueviolet&style=flat-square)
 
 </div>
-
----
-
-*💡 "Turning data into insights, one model at a time."*

@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b6b&height=220&section=header&text=Pradyumn%20Tendulkar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Enterprise%20Workflow%20Automation&descSize=18&descColor=ff6b6b&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+Multi-Agent+Pipelines;Enterprise+Workflow+Automation;Research-Backed+%7C+Production-Tested;Always+Shipping+with+Measurable+Results" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Enterprise+Workflow+Automation;Multi-Agent+Pipelines;LLM+Orchestration;RAG+Architectures" alt="Typing SVG" /></a>
 
 <br/>
 

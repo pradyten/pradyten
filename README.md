@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b6b&height=220&section=header&text=Pradyumn%20Tendulkar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Enterprise%20Workflow%20Automation&descSize=18&descColor=ff6b6b&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=Building+Multi-Agent+Pipelines;Enterprise+Workflow+Automation;Research-Backed+%7C+Production-Tested;Always+Shipping+with+Measurable+Results" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+Multi-Agent+Pipelines;Enterprise+Workflow+Automation;Research-Backed+%7C+Production-Tested;Always+Shipping+with+Measurable+Results" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- Contact Badges -->
-[![Email](https://img.shields.io/badge/pktendulkar@wpi.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pktendulkar@wpi.edu)
+[![Email](https://img.shields.io/badge/pradyumnten.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradyumnten.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-tendulkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradyten)
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/pradyumnten)
@@ -226,7 +226,7 @@ Full-stack RAG with a 6-node LangGraph pipeline, dual-layer confidence scoring, 
 
 <br/>
 
-[![Email](https://img.shields.io/badge/pktendulkar@wpi.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pktendulkar@wpi.edu)
+[![Email](https://img.shields.io/badge/pradyumnten.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradyumnten.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-tendulkar/)
 [![Calendly](https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/pradyumnten)
 
